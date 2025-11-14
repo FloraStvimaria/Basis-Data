@@ -1,0 +1,16 @@
+id_buku,judul,pengarang,tahun_terbit,stok
+1,Pemrograman Dasar,Ahmad Rizal,2019,10
+2,Basis Data,Budi Santoso,2020,8
+3,Algoritma dan Struktur Data,Citra Dewi,2018,6
+4,Sistem Operasi,Dewi Lestari,2021,9
+5,Jaringan Komputer,Eka Putra,2022,5
+6,Kecerdasan Buatan,Fajar Pratama,2023,7
+7,Pemrograman Web,Gina Aprilia,2019,10
+8,Rekayasa Perangkat Lunak,Hadi Wijaya,2020,6
+9,Analisis Data,Indah Permata,2021,8
+10,Manajemen Proyek IT,Joko Rahmat,2022,5
+11,Pemrograman Mobile,Kiki Amelia,2023,9
+12,Keamanan Jaringan,Lina Kartika,2020,7
+13,Cloud Computing,Maya Andini,2021,6
+14,Internet of Things,Nina Utami,2023,8
+15,Desain UI/UX,Oka Hidayat,2022,10
